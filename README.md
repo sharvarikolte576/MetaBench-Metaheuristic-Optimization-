@@ -132,6 +132,3 @@ pytest tests/
 
 ---
 
-## 📜 License
-
-MIT License. Feel free to use and extend for academic and research purposes.
